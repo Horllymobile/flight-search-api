@@ -1,0 +1,28 @@
+{
+  "name": "flight-search-api",
+  "version": "1.0.0",
+  "description": "This is a flight search api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horllymobile/flight-search-api.git"
+  },
+  "keywords": [
+    "flight",
+    "search"
+  ],
+  "author": "Abraham Olamide James aka (horllymobile)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Horllymobile/flight-search-api/issues"
+  },
+  "homepage": "https://github.com/Horllymobile/flight-search-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
